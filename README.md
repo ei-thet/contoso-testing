@@ -33,6 +33,10 @@
     git clone git@github.com:ei-thet/contoso-testing.git contoso-testing
     cd contoso-testing
     git remote -v
+    git status
+    git add .
+    git commit -m "Update README"
+    git push
 ```        
 
 
