@@ -37,6 +37,10 @@
     git add .
     git commit -m "Update README"
     git push
-```        
+```    
+
+5. Create AWS Role
+    5.1 touch main.tf versions.tf outputs.tf variables.tf
+    5.2 
 
 
