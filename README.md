@@ -41,6 +41,10 @@
 
 5. Create AWS Role
     5.1 touch main.tf versions.tf outputs.tf variables.tf
-    5.2 
+    5.2 push to Github and TFC auto trigger.
+
+6. hashicat-aws application
+    6.1 Clone the hashicat app
+    git clone https://github.com/hashicorp/hashicat-aws.git hashicat-aws-contoso-testing
 
 
