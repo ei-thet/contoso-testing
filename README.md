@@ -47,4 +47,5 @@
     6.1 Clone the hashicat app
     git clone https://github.com/hashicorp/hashicat-aws.git hashicat-aws-contoso-testing
 
-
+7. split the terraform meow app.
+    7.1 touch meow-vpc.tf meow-sg.tf meow-igw-rt.tf
